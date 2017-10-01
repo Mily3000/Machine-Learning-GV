@@ -1,0 +1,1 @@
+Course that covers main algorithms of Machine Learning such as supervised and unsupervised learning. The examples are in R and Python code.
